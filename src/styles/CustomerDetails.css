@@ -1,0 +1,17 @@
+.customer-details {
+    width: 400px;
+    height:600px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    
+    overflow-y: scroll;
+  }
+  
+  .customer-details h3 {
+    margin-bottom: 15px;
+  }
+  
+  .details p {
+    margin-bottom: 10px;
+  }
+  
